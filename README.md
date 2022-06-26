@@ -19,7 +19,7 @@
 
 [@genStr_Bot](https://t.me/genStr_Bot)
 
-[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/PyroStringSession#main.py)
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BRANDEDINSAN3/Insaneop?v=1)
 ###   
 <a href="https://youtu.be/nQAyresJTC0"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
