@@ -2,7 +2,7 @@
 
 ### 𝗜𝗻𝘀𝗮𝗻𝗲 ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://te.legra.ph/file/f939f27545cfa9ebe8677.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Sareefo_ki_duniya"><img src="https://te.legra.ph/file/12470cc2945b0d0a1f969.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
