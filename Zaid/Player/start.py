@@ -36,10 +36,10 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{START_PIC}",
-        caption=f"""**A Telegram Music Bot Based Mongodb.
+        caption=f"""**ᴀ ꜱᴜᴘᴇʀ ꜰᴀꜱᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
+Powered By [INSANE OP](https://t.me/thextzinsaneop) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -50,10 +50,10 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/ab_sumit"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/sareefinsaneop/INSANEOPVC"
                     )
                 ],
                 [
@@ -73,7 +73,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
 @Client.on_message(commandpro(["/start", "/alive"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/dd9ca2b2122dd68ffab0e.png",
+        photo=f"https://te.legra.ph/file/b44ab5bc742d812548218.jpg",
         caption=f"""Thanks For Adding Me To Ur Chat, For Any Query U Can Join Our Support Groups 🔥♥️""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -89,13 +89,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(command(["repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/92688f2c44a35ba673c23.png",
+        photo=f"https://te.legra.ph/file/fd7cd0c6c62bd5f258f5a.jpg",
         caption=f"""Here Is The Source Code Fork And Give Stars ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/sareefinsaneop/INSANEOPVC")
                 ]
             ]
         ),
