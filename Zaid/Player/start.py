@@ -35,7 +35,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"{START_PIC}",
+        photo=f"https://te.legra.ph/file/fd7cd0c6c62bd5f258f5a.jpg",
         caption=f"""**ᴀ ꜱᴜᴘᴇʀ ꜰᴀꜱᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
